@@ -1,0 +1,8 @@
+public class Operators{
+ public staic void mian(String[]args){
+ int sum1=15;
+ int sum2=sum1+30;
+ int sum3=sum1+sum2;
+ System.out.println(sum3);
+}
+}
